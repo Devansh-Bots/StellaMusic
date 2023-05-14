@@ -56,7 +56,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://github.com/Devansh-Boys/StellaMusic"
+            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://github.com/Devansh-Bots/StellaMusic"
         ),
         InlineKeyboardButton(text="🖤 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🖤", user_id=config.OWNER_ID),
     ],
