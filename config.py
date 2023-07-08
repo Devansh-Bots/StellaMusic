@@ -20,7 +20,6 @@ SESSION = getenv("SESSION", None)
 
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NotMySpace")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DadEyeBotz")
-l
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1794184828").split()))
 
 
